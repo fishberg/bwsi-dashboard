@@ -46,7 +46,7 @@ Note: BWSI is managed with just a few people that also have additional responsib
 |How do I register for Piazza? | Check the Introductory module or Course Updates in individual course for links and access code |
 | I see the 2019 courses, can I work on them? | No, the 2019 courses are closed, and do not count towards the 2020 application |
 | After I register on BWSIX, can I change the email for the account? | No, BWSIX.mit.edu is administered by a different organization and we cannot change email/account settings. |
-| What email is used for correspondence for BWSI? | We use the email entered on the student online course registration form as the primary method to send updates and information |
+| What email is used for correspondence for BWSI? | We use the email entered by you, the student, on the student online course registration form as the primary method to send updates and information |
 
 <br/>
 
