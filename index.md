@@ -37,6 +37,8 @@ Note: BWSI is managed with just a few people that also have additional responsib
 
 | Question | Answer |
 | ---- | ---- |
+| Are the courses open yet? | Yes, most opened on Jan 16, all courses will be open by Feb 29 |
+| How do I register? | Select the link provided in the course registration email (see this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) ) |
 | How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course. |
 | I'm having trouble logging into BWSIX, what can I do? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers |
 | Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily complete additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
