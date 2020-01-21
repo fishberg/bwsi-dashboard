@@ -32,7 +32,7 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | How can I get BWSI emails at non-school email address? | Provide a non-school email address to your teacher when you ask them to nominate you for BWSI |
 | Can you change my school email address on the form? | Due to our limited resources it may be faster to ask your teacher to resubmit a new nomination form with an email that won't be blocked |
 | What do I do after I get the BWSIX email? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers | 
-| Can I apply if I'm not a US Citizen? | Everyone can enroll for online course, but acceptance for on-campus program is *limited* to US Citizens or students already attending school in the US |
+| Can I apply if I'm not a US Citizen? | Everyone can enroll for online course, but acceptance for #on-campus program# is *limited to US Citizens or students already attending school in the US* |
 | Can I apply if I go to school internationally? | We can accept US citizens going to school in non-US schools, the process is the same, contact us if your instructors cannot access the required forms |
 
 # Online Course 
