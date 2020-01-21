@@ -74,17 +74,24 @@ We have world class researchers and educators present lunchtime lectures to atte
 
 | Name | Date | Title | Organization |
 | ---- | ---- | ----- | -----|
-| Prof. John Hart | 7/9/19 | Adventures in Additive Manufacturing | MIT |
+| Prof. John Hart | 7/9/19 | Adventures in Additive Manufacturing | MIT Mechanical Engineering|
+| Don Kieffer | 7/10/19| Dynamic Work Design: Principles, Structures, Methods| MIT Sloan School of Management | 
 | Jerry Wohletz | 7/11/19 | Autonomous Intelligence: The AI You Don’t Know | BAE Systems | 
-| Katie Rae | 7/12/19 | Inspiring the Next Generation of Tough Tech Founders | MIT |
+| Katie Rae | 7/12/19 | Inspiring the Next Generation of Tough Tech Founders | The Engine |
+| Dr. Jalal Khan| 7/15/19 | 3D Imaging using Photon-counting Laser Radars| MIT Lincoln Laboratory|
+| DJ Rock | 7/16/19 | Applying to Highly Selective Colleges | MIT Admissions Office |	
 | Prof. Kerry Cahoy | 7/17/19 | Using Weather Balloons and CubeSats to Learn About Space Exploration | MIT |
+| Prof. Hamsa Balakrishnan | 7/18/19 | Lean, Green, Flying Machines | MIT Aeronautics and Astronautics |
 | Prof. Neil Gershenfeld | 7/19/19 | How to Make (almost) Anything | MIT |
 | Prof. Sanjay Sarma | 7/22/19 | How We Learn | MIT |
+| Dr. Eric Evans | 7/23/19 | MIT Lincoln Laboratory Overview | MIT Lincoln Laboratory |	
 | Prof. Cynthia Breazeal | 7/24/19 | Toward Human-Friendly AI | MIT |
 | Joonhee Won | 7/25/19 | The Future of Learning: Changing Pardigm of School | KAIT |
 | Prof. Evelyn Wang | 7/26/19 | Nanoengineered Materials for Advanced Energy and Water Technologies | MIT |
 | Prof. Fikile Brushett | 7/29/19 | Building an Electrochemical Future: Innovators Needed! | MIT |
 | Natalia Guerrero | 7/30/19 | Worlds Beyond Our Own: New Exoplanet Discoveries by NASA’s TESS | MIT |
+| Dr. Mark Russell | 7/31/19 | The Future, Arriving Today: Advanced Technology, Cyber and Machine Learning | Raytheon |
+| Keith Lynn | 8/1/19 | Artificial Intelligence: AI in Every Domain | Lockheed Martin |
 
 # Program Links
 
