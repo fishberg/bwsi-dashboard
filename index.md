@@ -68,7 +68,7 @@ Our sponsors understand that the best and brightest are coming here for courses 
 
 # Daily Seminars during July (from 2019)
 
-We have world class researchers and educators present lunchtime lectures to attending students.  You can watch the webcasted seminars online, [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/)!
+We have world class researchers and educators present lunchtime lectures to attending students.  You can watch selected seminars online, [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/)!
 
 ### 2019 Schedule  (2020 Coming soon!)
 
