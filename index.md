@@ -51,6 +51,14 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | After I register on BWSIX, can I change the email for the account? | No, BWSIX.mit.edu is administered by a different organization and we cannot change email/account settings. |
 | What email is used for correspondence for BWSI? | We use the email entered by you, the student, on the student online course registration form as the primary method to send updates and information |
 
+# Middle School Information 
+
+| Question | Answer |
+| ---- | ---- |
+|When will you offer a middle school course? | We already do!  (click [here](https://beaverworks.ll.mit.edu/CMS/bw/node/351) |
+| How can I apply/ or apply for my child? | See link above, enrollment is not yet open. |
+| How can I do this in my school? | We can partner with you and your school to provide enrichment curriculum using this course. Please [email](bwis-admin@mit.edu) us. | 
+
 <br/>
 
 
