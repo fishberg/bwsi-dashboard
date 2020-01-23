@@ -54,7 +54,7 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | How do I register? | Select the link provided in the course registration email (see this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) ) |
 | How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course. |
 | I'm having trouble logging into BWSIX, what can I do? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers |
-| Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily complete additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
+| Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily completing additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
 | How do I ask questions about course material? | We use Piazza as a forum for online course collaboration, you can register for an account on Piazza but course codes are ONLY available through the individual BWSIX course. | 
 |How do I register for Piazza? | See Piazza under Passwords section Q & A; Check the Introductory module or Course Updates in individual course for links and access code |
 | I see the 2019 courses, can I work on them? | No, the 2019 courses are closed, and do not count towards the 2020 application |
