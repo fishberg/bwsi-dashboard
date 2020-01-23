@@ -56,7 +56,7 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | I'm having trouble logging into BWSIX, what can I do? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers |
 | Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily complete additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
 | How do I ask questions about course material? | We use Piazza as a forum for online course collaboration, you can register for an account on Piazza but course codes are ONLY available through the individual BWSIX course. | 
-|How do I register for Piazza? | Check the Introductory module or Course Updates in individual course for links and access code |
+|How do I register for Piazza? | See Piazza under Passwords section Q & A; Check the Introductory module or Course Updates in individual course for links and access code |
 | I see the 2019 courses, can I work on them? | No, the 2019 courses are closed, and do not count towards the 2020 application |
 | After I register on BWSIX, can I change the email for the account? | No, BWSIX.mit.edu is administered by a different organization and we cannot change email/account settings. |
 | What email is used for correspondence for BWSI? | We use the email entered by you, the student, on the student online course registration form as the primary method to send updates and information |
