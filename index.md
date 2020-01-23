@@ -26,7 +26,6 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | Question | Answer |
 | ---- | ---- |
 | Have I been nominated? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
-| What's the password for course registration [form](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020)? | Please contact your teacher or mentor that nominated you for BWSI. |
 | I did not receive BWSIX (or online course) registration email- why not? | Emails are sent to the addresses provided by your teacher, very often our emails are blocked by school network firewalls |
 | How can I get BWSI emails at my school? | Talk to your school administrator to allow emails from "mit.edu" through the school firewall |
 | How can I get BWSI emails at non-school email address? | Provide a non-school email address to your teacher when you ask them to nominate you for BWSI |
@@ -34,6 +33,17 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | What do I do after I get the BWSIX email? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers | 
 | Can I apply if I'm not a US Citizen? | *Every student* can enroll for online course, but acceptance for **on-campus program** is *limited to US Citizens or students already attending school in the US* |
 | Can I apply if I go to school internationally? | We can accept US citizens going to school in non-US schools, the process is the same, contact us if your instructors cannot access the required forms |
+
+# Passwords
+
+| Question | Answer |
+| ---- | ---- |
+| What's the password for course registration [form](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020)? | Please contact your teacher or mentor that nominated you for BWSI. |
+| What's the password for my BWSIX account on the login [page](https://bwsix.mit.edu/login)? | Simply select the "forgot password" link on this page, and you will be able set it at any time. |
+| What's my password for Piazza? | Piazza is self-registration (select [sign-up](https://piazza.com/), use "forgot password [link](https://piazza.com/account/password/forgot)" to reset your password. |
+| How do I get to correct course on Piazza? | Go to [sign-up](https://piazza.com/), select green [Students get started](https://piazza.com/school-search), enter MIT, and select "Massachusetts Institute of Technology", type "bwsi" in the course field and a course selection list will appear. |
+|Where's my access code to register for course on Piazza? | Access codes are located in introductory module for your course or in course updates (check all updates for Jan 14) |
+
 
 # Online Course 
 
