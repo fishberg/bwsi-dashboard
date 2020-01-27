@@ -26,7 +26,8 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | Question | Answer |
 | ---- | ---- |
 | Have I been nominated? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
-| I did not receive BWSIX (or online course) registration email- why not? | Emails are sent to the addresses provided by your teacher, very often our emails are blocked by school network firewalls |
+| I did not receive BWSIX (or online course) registration email- why not? | Emails are sent to the addresses provided by your teacher, very often our emails are blocked by school network firewalls|
+| I did not receive BWSIX (or online course) registration email after I completed the online form- why not? | Did you check the email entered was correct? The automatic response is sent to the email provided on the form, please contact bwsi-admin@mit.edu to see if this needs to be corrected. |
 | How can I get BWSI emails at my school? | Talk to your school administrator to allow emails from "mit.edu" through the school firewall |
 | How can I get BWSI emails at non-school email address? | Provide a non-school email address to your teacher when you ask them to nominate you for BWSI |
 | Can you change my school email address on the form? | Due to our limited resources it may be faster to ask your teacher to resubmit a new nomination form with an email that won't be blocked |
