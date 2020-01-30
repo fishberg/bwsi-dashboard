@@ -18,7 +18,7 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | I'm a freshman/sophomore, can I apply? | We encourage interested students to be nominated to access the online course, but as we can only accept a limited number of students, accepted students are generally finishing their junior year (i.e. rising seniors) |
 | I'm a senior, can I apply? | Current seniors are not eligible to apply (you should be getting ready for college and mentoring younger students) |
 |I'm a parent, can I attend? | Only the *final* event is open to everyone and we encourage parents and friends to visit to see their student's success, but parents cannot visit during the program |
-| What does the program cost? | The program is *free* for day students (students who are local or arrange their own local housing), residential students may be charged a $5,000 housing fee for the program, but we have information on fee waivers [here](https://beaverworks.ll.mit.edu/CMS/bw/Summer_Program_Application#overlay-context=bwsi) |
+| What does the program cost? Is there a fee for the program? | The program is *free* for day students (students who are local or arrange their own local housing), residential students may be charged a $5,000 housing fee for the program, but we have information on fee waivers [here](https://beaverworks.ll.mit.edu/CMS/bw/Summer_Program_Application#overlay-context=bwsi) |
 
 
 # Application process
