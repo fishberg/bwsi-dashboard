@@ -74,6 +74,8 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | Question | Answer |
 | ---- | ---- |
 | Have I been nominated? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
+| I'm a teacher/parent/mentor/coach - how do I nominate a student? | Please use this [link](https://mit-bwsi.formstack.com/forms/bwsi_nomination_onlinecourse_2020) to nominate, up to 5 students per form and you can submit additional times as well|
+| 
 
 
 # Middle School Information 
