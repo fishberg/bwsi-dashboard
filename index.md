@@ -91,7 +91,7 @@ Note: BWSI is managed with just a few people that also have additional responsib
 
 # Internship Opportunities (to be updated as we have more information)
 
-Our sponsors understand that the best and brightest are coming here for courses and offer internships to selected students attending BWSI.
+Our sponsors understand that the best and brightest are coming here for courses and offer internships to selected students attending BWSI for the following summer.
 
 | Name | Application Link | Additional Info | Due |
 | ---- | ---------------- | --------------- | --- |
