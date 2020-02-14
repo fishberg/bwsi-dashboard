@@ -84,7 +84,8 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | ---- | ---- |
 |When will you offer a middle school course? | We already do!  (click [here](https://beaverworks.ll.mit.edu/CMS/bw/node/351)) |
 | How can I apply/ or apply for my child? | See link above, enrollment is not yet open. |
-| How can I do this in my school? | We can partner with you and your school to provide enrichment curriculum using this course. Please email us (bwsi-admin@mit.edu). | 
+| Can my child attend? | The progam at MIT is *only* for local Boston-area students, we cannot provide residential housing for this age group, and  do this as part of community outreach. |
+| How can I do this in my school? | We can partner with you and your school to provide the course and curriculum content for classes, enrichment or clubs. Please email us (bwsi-admin@mit.edu). | 
 
 <br/>
 
