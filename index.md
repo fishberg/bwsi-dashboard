@@ -28,12 +28,12 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | Have I been nominated? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
 |Do I need teacher recommendations? | Yes, you will need a teacher (or mentor) to nominate you to participate in the online course, and you will need a teacher (or mentor) recommendation if you decide to fill out the enrollment application.  The teacher recommendation is submitted via an online form that is provided with the enrollment applications in March. |
 | I did not receive BWSIX (or online course) registration email- why not? | Emails are sent to the addresses provided by your teacher, very often our emails are blocked by school network firewalls|
-| I used my gmail/hotmail/icloud address and still did not receive BWSIX (or online course) registration email- why not? | Please check your spam or junk mailbox to make sure it wasn't filtered, See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers |
+| I used my gmail/hotmail/icloud address and still did not receive BWSIX (or online course) registration email- why not? | Please check your spam or junk mailbox to make sure it wasn't filtered, See this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub) for more in-depth answers |
 | I did not receive BWSIX (or online course) registration email after I completed the online form- why not? | Did you check the email entered was correct? The automatic response is sent to the email provided on the form, please contact bwsi-admin@mit.edu to see if this needs to be corrected. |
 | How can I get BWSI emails at my school? | Talk to your school administrator to allow emails from "mit.edu" through the school firewall |
 | How can I get BWSI emails at non-school email address? | Provide a non-school email address to your teacher when you ask them to nominate you for BWSI |
 | Can you change my school email address on the form? | Due to our limited resources it may be faster to ask your teacher to resubmit a new nomination form with an email that won't be blocked |
-| What do I do after I get the BWSIX email? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers | 
+| What do I do after I get the BWSIX email? | See this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub) for more in-depth answers | 
 | Can I apply if I'm not a US Citizen? | *Every student* can enroll for online course, but acceptance for **on-campus program** is *limited to US Citizens or students already attending school in the US* |
 | Can I apply if I go to school internationally? | We can accept US citizens going to school in non-US schools, the process is the same, contact us if your instructors cannot access the required forms |
 | Transportation?  Travel? | Families are required to provide for student's transportation to/from BWSI at MIT in Cambridge MA for the summer program whether the student is residential or day status. Accepted students will get more detailed information. |
@@ -56,9 +56,9 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | I registered but cannot access/find the correct course? | Check you have selected the correct semester (Spring 2020) and the courses for **2020** (not 2019) |
 | Can I just do the online course (and not apply to the summer program) ? | Yes, the online course is open to all high school students who are interested.  The process for the online course access is the same whether you plan on applying to the summer program or not. |
 | Are the courses open yet? | Yes, most opened on Jan 16, all courses will be open by Feb 29 |
-| How do I register? | Select the link provided in the course registration email (see this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) ) |
+| How do I register? | Select the link provided in the course registration email (see this [document]https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub ) |
 | How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course. |
-| I'm having trouble logging into BWSIX, what can I do? | See this [document](https://drive.google.com/open?id=1d_P8NgV6_GRblNVaFKq_uNasMmI42zw0) for more in-depth answers |
+| I'm having trouble logging into BWSIX, what can I do? | See this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub) for more in-depth answers |
 | Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily completing additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
 | How do I register for additional courses? | Your login for [BWSIX](https://bwsix.mit.edu/dashboard) provides access to any of the 2020 courses, and you self-register by selecting the course and starting it (don't forget that each course has its own piazza forum).|
 | How do I ask questions about course material? | We use Piazza as a forum for online course collaboration, you can register for an account on Piazza but course codes are ONLY available through the individual BWSIX course. | 
@@ -68,6 +68,13 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | After I register on BWSIX, can I change the email for the account? | No, BWSIX.mit.edu is administered by a different organization and we cannot change email/account settings. |
 | What email is used for correspondence for BWSI? | We use the email entered by you, the student, on the student online course registration form as the primary method to send updates and information |
 | Are there certificates available after completing the online course? | Not yet, but will be by end of February. Certificates will be available at the end of the course and automatically put in the score of the student when selected. |
+
+# Nomination process
+
+| Question | Answer |
+| ---- | ---- |
+| Have I been nominated? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
+
 
 # Middle School Information 
 
