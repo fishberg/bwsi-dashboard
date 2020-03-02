@@ -79,7 +79,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | After I register on BWSIX, can I change the email for the account? | No, BWSIX.mit.edu is administered by a different organization and we cannot change email/account settings. |
 | What email is used for correspondence for BWSI? | We use the email entered by you, the student, on the student online course registration form as the primary method to send updates and information |
 | Are there certificates available after completing the online course? | Not yet, but will be by end of February. Certificates will be available at the end of the course and automatically put in the score of the student when selected. |
-| When is the Cyber Security/Reverse Engineering Software course going to be available? | We have been delayed in releasing the course, as it has not been available, that will be a factor in determining 'signifcant progress' on this course during enrollment decisions. |
+| When is the Cyber Security/Reverse Engineering Software course going to be available? | We have been delayed in releasing the course. We will take the delayed start into consideration in determining 'signifcant progress' on this course during enrollment decisions. |
 
 # Nomination process
 
