@@ -20,6 +20,14 @@ Note: BWSI is managed with just a few people that also have additional responsib
 |I'm a parent, can I attend? | Only the *final* event is open to everyone and we encourage parents and friends to visit to see their student's success, but parents cannot visit during the program |
 | What does the program cost? Is there a fee for the program? | The program is *free* for day students (students who are local or arrange their own local housing), residential students may be charged a $5,000 housing fee for the program, but we have information on fee waivers [here](https://beaverworks.ll.mit.edu/CMS/bw/Summer_Program_Application#overlay-context=bwsi) |
 
+# Enrollment Questions for Summer program at MIT
+
+| Question | Answer |
+| ---- | ---- |
+| Where is the link for the enrollment application? | Student enrolled in the online course have received this [link](https://mit-bwsi.formstack.com/forms/bwsi_student_summer_application_2020), with password. |
+| You ask for 3 choices (1st, 2nd, 3rd) for courses- do I have to do all three? | Enrollment is competitive and you may not get your first choice, upon acceptance into the program, you will be placed into one (1) course and will need to complete the online portion for that course before coming to MIT. |
+| When is the teacher recommendation due? | Your teacher recommendaton is due March 30 via this link: https://mit-bwsi.formstack.com/forms/bwsi_teacher_recommendation_2020 |
+| Does the teacher recommendation have to be submitted at the same time?/Can it be submitted early? | Yes, your teacher will also need the Unique ID number, provided with your online course access (and is also your BWSIX user name) |
 
 # Application process
 
