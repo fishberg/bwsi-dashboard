@@ -28,6 +28,8 @@ Note: BWSI is managed with just a few people that also have additional responsib
 | You ask for 3 choices (1st, 2nd, 3rd) for courses- do I have to do all three? | Enrollment is competitive and you may not get your first choice, upon acceptance into the program, you will be placed into one (1) course and will need to complete the online portion for that course before coming to MIT. |
 | When is the teacher recommendation due? | Your teacher recommendaton is due March 30 via this link: https://mit-bwsi.formstack.com/forms/bwsi_teacher_recommendation_2020 |
 | Does the teacher recommendation have to be submitted at the same time?/Can it be submitted early? | Your teacher can submit the recommendation at any time now, and will also need the Unique ID number, provided with your online course access (and is also your BWSIX user name) |
+| What do I do if I hit submit before the application was complete? | We do not have the resources to edit incomplete enrollment applications, they will be deleted and you will have to re-submit|
+| How can I save my application prior to submitting? | Formstack does not support saving draft applications, collect all your required information before submitting |
 
 # Application process
 
