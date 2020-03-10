@@ -55,8 +55,8 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | Question | Answer |
 | ---- | ---- |
 | What's my password?? | 1) The password for formstack course registration (See next question), for BWSIX.mit.edu- see 2) below, for piazza- see 3) below.|
-| 1)What's the password for the formstack course registration [form](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020)? | Please contact your teacher or mentor that nominated you for BWSI. |
-| 2) What's the password for my BWSIX account on the login [page](https://bwsix.mit.edu/login)? | Simply select the "forgot password" link on this [page](https://bwsix.mit.edu/login), and you will be able set it at any time. |
+| 1) What's the password for the formstack course registration [form](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020)? | Please contact your teacher or mentor that nominated you for BWSI. |
+| 2) What's the password for my BWSIX account on the login [page](https://bwsix.mit.edu/login)? | At first login, simply select the "forgot password" link on this [page](https://bwsix.mit.edu/login), and you will be able set it (or reset it) at any time. |
 | 3) What's my password for Piazza? | Piazza is self-registration (select [sign-up](https://piazza.com/)) *corrected*|
 | How do I get to correct course on Piazza? | Go to [sign-up](https://piazza.com/), select green [Students get started](https://piazza.com/school-search), enter MIT, and select "Massachusetts Institute of Technology", type "bwsi" in the course field and a course selection list will appear. |
 |Where's my access code to register for course on Piazza? | Access codes are located in introductory module for your course or in course updates (check all updates for Jan 14) |
