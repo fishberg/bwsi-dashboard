@@ -25,7 +25,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | Question | Answer |
 | ---- | ---- |
 | Where is the link for the enrollment application? | Student enrolled in the online course have received this [link](https://mit-bwsi.formstack.com/forms/bwsi_student_summer_application_2020), with password. |
-| What information do I need for the enrollment application? | Information and additional instructions are in this [document](https://docs.google.com/document/d/1x7gaXjy1BXAoae1lZwzxpmDrNOMtGVhU45K3eatPYZY/edit?usp=sharing) |
+| What information do I need for the enrollment application? | Information and additional instructions are in this [document](https://docs.google.com/document/d/e/2PACX-1vSGXSlDwRzuKzxE9SNsJQ1YK9rHmhUdODUgGLLPAshONWEByl7Il-nxJX-G_baB5d60P9Yo8JMyGUs1/pub) |
 | You ask for 3 choices (1st, 2nd, 3rd) for courses- do I have to do all three? | Enrollment is competitive and you may not get your first choice. Upon acceptance into the program, you will be placed into one (1) course and will need to complete the online portion for that course. |
 | When is the teacher recommendation due? | Your teacher recommendaton is due March 30 via this link: https://mit-bwsi.formstack.com/forms/bwsi_teacher_recommendation_2020 |
 | Does the teacher recommendation have to be submitted at the same time?/Can it be submitted early? | Your teacher can submit the recommendation at any time now, and will also need the Unique ID number, provided with your online course access (and is also your BWSIX user name) |
