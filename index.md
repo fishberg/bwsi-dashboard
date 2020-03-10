@@ -47,8 +47,8 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | Can you change my school email address on the form? | Due to our limited resources it may be faster to ask your teacher to resubmit a new nomination form with an email that won't be blocked |
 | What do I do after I get the BWSIX email? | See this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub) for more in-depth answers | 
 | Can I apply if I'm not a US Citizen? | *Every student* can enroll for online course, but acceptance for **on-campus program** is *limited to US Citizens or students already attending school in the US* |
-| Can I apply if I go to school internationally? | We can accept US citizens going to school in non-US schools, the process is the same, contact us if your instructors cannot access the required forms |
-| Transportation?  Travel? | Families are required to provide for student's transportation to/from BWSI at MIT in Cambridge MA for the summer program whether the student is residential or day status. Accepted students will get more detailed information. |
+| Can I apply if I go to school internationally? | We can accept US citizens going to school in non-US schools, the process is the same, contact us if your instructors cannot access the required forms. |
+| Can I apply if I am homeschooled/go to alterntive school? | *Yes*, the process is the same, (nomination for online, registration for online, enrollment for onsite) contact us if your instructors/mentors cannot access the required forms. | Transportation?  Travel? | Families are required to provide for student's transportation to/from BWSI at MIT in Cambridge MA for the summer program whether the student is residential or day status. Accepted students will get more detailed information. |
 
 # Passwords
 
