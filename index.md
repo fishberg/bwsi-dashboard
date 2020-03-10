@@ -149,7 +149,7 @@ We have world class researchers and educators present lunchtime lectures to atte
 
 | Name | Link |
 | ---- | ---- |
-| BWSI 2020 Brochure | [Click Here](https://drive.google.com/open?id=1DpJqwPsMZmlXzQ4zOXvnR2UlOJPyoP18)
+| BWSI 2020 Brochure | [Click Here](https://drive.google.com/open?id=1XuNAffuIqxIe9_W3pF5atQATzUQDqj9W)
 | BWSI'19 Program Brochure | [Click Here](https://drive.google.com/file/d/1f6MtWChhFetyJVoSkKW4KYEGOP3-rO66/view?usp=sharing) |
 | BWSI'19 Final Event Brochure | [Click Here](https://drive.google.com/open?id=1ha7z0dfWV3WyacrAFyxJvp6AON76jvm7) |
 
