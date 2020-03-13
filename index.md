@@ -33,6 +33,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | How can I save my application prior to submitting? | Formstack has a "save and submit later" link at the bottom of the page so you can collect all your required information before submitting |
 | I have more than 5 honor/awards and cannot fit into the space provided, what should I do? | In order of priority, please list the most important, then most recent, then most relevant ones to you.  Adding more does not increase your chances of acceptance, separate emails with additional information will not be correlated with your application |
 | My "List work/volunteer/hobbies/sports" doesn't fit- what should I do? | In order of priority, please list the most important, then most recent, then most relevant ones to you.  Adding more does not increase your chances of acceptance, separate emails with additional information will not be correlated with your application |
+| Where do I send my school grades/transcripts? | We do not require school transcripts but rely on your progress in the online course and teacher recommendation for enrollment into the summer program. |
 
 # Application process
 
