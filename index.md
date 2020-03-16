@@ -7,7 +7,7 @@ layout: default
 
 # Frequently Asked Questions (FAQ) re. Beaver Works Summer Institute
 
-Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu .
+Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu .
 
 | Question | Answer |
 | ---- | ---- |
