@@ -77,6 +77,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | I'm having trouble logging into BWSIX, what can I do? | See this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub) for more in-depth answers |
 | How do I pick a course/What courses should I do? | After logging in to BWSIX, you will see all the 2020 courses, you should select the one course that interests you most and begin it, other courses, like Python, may be required to qualify for the summer program and it will state that in the course syllabus or description.| 
 | Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily completing additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
+|Since the application asks for your top three choices, would you have to finish at least 50% of your top 3 courses before you apply? | No, just your prefered course.  Not all students can be accepted into their top preference and this will help make sure promising students can be in a personally interesting course. |
 | How do I register for additional courses? | Your login for [BWSIX](https://bwsix.mit.edu/dashboard) provides access to any of the 2020 courses, and you self-register by selecting the course and starting it (don't forget that each course has its own piazza forum).|
 | How do I ask questions about course material? | We use Piazza as a forum for online course collaboration, you can register for an account on Piazza but course codes are ONLY available through the individual BWSIX course. | 
 |How do I register for Piazza? | See Piazza under Passwords section Q & A; Check the Introductory module or Course Updates in individual course for links and access code |
@@ -84,7 +85,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | I see the 2019 courses, can I work on them? | No, the 2019 courses are closed, and do not count towards the 2020 application |
 | After I register on BWSIX, can I change the email for the account? | No, BWSIX.mit.edu is administered by a different organization and we cannot change email/account settings. |
 | What email is used for correspondence for BWSI? | We use the email entered by you, the student, on the student online course registration form as the primary method to send updates and information |
-| Are there certificates available after completing the online course? | Not yet, but will be by end of February. Certificates will be available at the end of the course and automatically put in the score of the student when selected. |
+| Are there certificates available after completing the online course? | Not yet, but will be by end of March. Certificates will be available at the end of the course and automatically put in the score of the student when selected. |
 | When is the Cyber Security/Reverse Engineering Software course going to be available? | We have been delayed in releasing the course. The Python Core and GitHub will be required elements when it is available and you can start on those. We will take the delayed start into consideration in determining 'signifcant progress' on this course during enrollment decisions. |
 
 # Nomination process
