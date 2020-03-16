@@ -71,7 +71,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | ---- | ---- |
 | I registered but cannot access/find the correct course? | Check you have selected the correct semester (Spring 2020) and the courses for **2020** (not 2019) |
 | Can I just do the online course (and not apply to the summer program) ? | Yes, the online course is open to all high school students who are interested.  The process for the online course access is the same whether you plan on applying to the summer program or not. |
-| Are the courses open yet? | Yes, most opened on Jan 16, all courses will be open by Feb 29 |
+| Are the courses open yet? | Yes, most opened on Jan 16.|
 | How do I register for the online course? | Select the link provided in the course registration email (see this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub ) )|
 | How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course. |
 | I'm having trouble logging into BWSIX, what can I do? | See this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub) for more in-depth answers |
