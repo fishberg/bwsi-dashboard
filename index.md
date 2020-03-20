@@ -8,7 +8,7 @@ layout: default
 # Frequently Asked Questions (FAQ) re. Beaver Works Summer Institute
 
 Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu .
-# COVID-19 Update and MIT Policy Update [here](https://beaverworks.ll.mit.edu/CMS/bw/COVID19)
+# COVID-19, BWSI and MIT Policy Update [here](https://beaverworks.ll.mit.edu/CMS/bw/COVID19)
 | Question | Answer |
 | ---- | ---- |
 | Where can I get more information? | We try to keep our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) as up-to-date as possible. |
