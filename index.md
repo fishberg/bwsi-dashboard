@@ -24,7 +24,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 
 | Question | Answer |
 | ---- | ---- |
-| #WHY is the link not available?? | See our [COVID-19](https://beaverworks.ll.mit.edu/CMS/bw/COVID19) announcement, We are changing the enrollment application to match the expected virtual courses that will be provided this summer and deadlines for applications will also change as appropriate|
+| WHY is the enrollment link not available/open?? | See our [COVID-19](https://beaverworks.ll.mit.edu/CMS/bw/COVID19) announcement, We are changing the enrollment application to match the expected virtual courses that will be provided this summer and deadlines for applications will also change as appropriate|
 | Where is the link for the enrollment application? | Student enrolled in the online course have received this [link](https://mit-bwsi.formstack.com/forms/bwsi_student_summer_application_2020), with password. |
 | Why didn't I receive the enrollment application? | The summer enrollment application is a link and was sent out to all students registered this year in the BWSIX online course.  If you did not receive it, check your spam/junk email and then contact bwsi-admin@mit.edu to request it again.|
 | What information do I need for the enrollment application? | Information and additional instructions are in this [document](https://docs.google.com/document/d/e/2PACX-1vSGXSlDwRzuKzxE9SNsJQ1YK9rHmhUdODUgGLLPAshONWEByl7Il-nxJX-G_baB5d60P9Yo8JMyGUs1/pub) |
