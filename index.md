@@ -14,13 +14,11 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | Question | Answer |
 | ---- | ---- |
 | Where can I get more information? | We try to keep our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) as up-to-date as possible. |
-| Do you offer programs for middle school? | We piloted our first course last year with the Mini-RACECAR course and plan on adding more this year. Here is info on our [Middle school program](https://beaverworks.ll.mit.edu/CMS/bw/node/351) |
-| I can't attend for the full month- can I come for just part? | Our program is very intensive and very competitive, so we ask that students applying *must* attend the full program. |
-| What other STEM programs are available? | MIT has many programs [here](https://outreach.mit.edu) and Lincoln Laboratory has more listed [here](http://www.ll.mit.edu/outreach) |
+| Do you offer programs for middle school? | We piloted our first course last year with the Mini-RACECAR course and are working to create a virtual middle school course. Here is info on our [Middle school program](https://beaverworks.ll.mit.edu/CMS/bw/node/351) |
+| What other STEM programs are available? | MIT has many programs [here](https://outreach.mit.edu) and Lincoln Laboratory has more listed [here](http://www.ll.mit.edu/outreach).  All are adapting to policy changes based on COVID-19|
 | I'm a freshman/sophomore, can I apply? | We encourage interested students to be nominated to access the online course, but as we can only accept a limited number of students, accepted students are generally finishing their junior year (i.e. rising seniors) |
 | I'm a senior, can I apply? | Current seniors are not eligible to apply (you should be getting ready for college and mentoring younger students) |
-|I'm a parent, can I attend? | Only the *final* event is open to everyone and we encourage parents and friends to visit to see their student's success, but parents cannot visit during the program |
-| What does the program cost? Is there a fee for the program? | The program is *free* for day students (students who are local or arrange their own local housing), residential students may be charged a $5,000 housing fee for the program, but we have information on fee waivers [here](https://beaverworks.ll.mit.edu/CMS/bw/Summer_Program_Application#overlay-context=bwsi) |
+| What does the program cost? Is there a fee for the program? | The program is *free* for students, we are making every effort to provide materials to support the virtual BWSI but students may have to purchase some supplies to participate.|
 
 # Enrollment Questions for Summer program at MIT
 
@@ -29,9 +27,8 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | WHY is the enrollment link not available/open?? | See our [COVID-19](https://beaverworks.ll.mit.edu/CMS/bw/COVID19) announcement, We are changing the enrollment application AND deadlines to match the expected virtual courses that will be provided this summer. |
 | Where is the link for the enrollment application? | Student enrolled in the online course have received this [link](https://mit-bwsi.formstack.com/forms/bwsi_student_summer_application_2020), with password. |
 | Why didn't I receive the enrollment application? | The summer enrollment application is a link and was sent out to all students registered this year in the BWSIX online course.  If you did not receive it, check your spam/junk email and then contact bwsi-admin@mit.edu to request it again.|
-| What information do I need for the enrollment application? | Information and additional instructions are in this [document](https://docs.google.com/document/d/e/2PACX-1vSGXSlDwRzuKzxE9SNsJQ1YK9rHmhUdODUgGLLPAshONWEByl7Il-nxJX-G_baB5d60P9Yo8JMyGUs1/pub) |
 | You ask for 3 choices (1st, 2nd, 3rd) for courses- do I have to do all three? | Enrollment is competitive and you may not get your first choice. Upon acceptance into the program, you will be placed into one (1) course and will need to complete the online portion for that course. |
-| When is the teacher recommendation due? | Your teacher recommendaton is due March 30 via this link: https://mit-bwsi.formstack.com/forms/bwsi_teacher_recommendation_2020 |
+| When is the teacher recommendation due? | Your teacher recommendation due date is being extended and can be via this link: https://mit-bwsi.formstack.com/forms/bwsi_teacher_recommendation_2020 |
 | Does the teacher recommendation have to be submitted at the same time?/Can it be submitted early? | Your teacher can submit the recommendation at any time now, and will also need the Unique ID number, provided with your online course access (and is also your BWSIX user name) |
 | What do I do if I hit submit before the application was complete? | We do not have the resources to edit incomplete enrollment applications, they will be deleted and you will have to re-submit|
 | How can I save my application prior to submitting? | Formstack has a "save and submit later" link at the bottom of the page so you can collect all your required information before submitting |
@@ -51,11 +48,10 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | How can I get BWSI emails at my school? | Talk to your school administrator to allow emails from "mit.edu" through the school firewall |
 | How can I get BWSI emails at non-school email address? | Provide a non-school email address to your teacher when you ask them to nominate you for BWSI |
 | Can you change my school email address on the form? | Due to our limited resources it may be faster to ask your teacher to resubmit a new nomination form with an email that won't be blocked |
-| What do I do after I get the BWSIX email? | See this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub) for more in-depth answers | 
+| What do I do after I get the BWSIX email? | We are updating based on making the program virtual as we are not having an in-person program this year, but this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub) for more in-depth answers | 
 | Can I apply if I'm not a US Citizen? | *Every student* can enroll for online course, but acceptance for **on-campus program** is *limited to US Citizens or students already attending school in the US* |
 | Can I apply if I go to school internationally? | We can accept US citizens going to school in non-US schools, the process is the same, contact us if your instructors cannot access the required forms. |
 | Can I apply if I am homeschooled/go to alterntive school? | *Yes*, the process is the same, (nomination for online, registration for online, enrollment for onsite) contact us if your instructors/mentors cannot access the required forms. |
-| Transportation?  Travel? | Families are required to provide for student's transportation to/from BWSI at MIT in Cambridge MA for the summer program whether the student is residential or day status. Accepted students will get more detailed information. |
 
 # Passwords
 
@@ -105,10 +101,8 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 
 | Question | Answer |
 | ---- | ---- |
-|When will you offer a middle school course? | We already do!  (click [here](https://beaverworks.ll.mit.edu/CMS/bw/node/351)) |
-| Can I attend? | The middle school progam at MIT is *only* for local Boston-area students, we cannot provide residential housing for this age group, and do this as part of community outreach. |
+|When will you offer a middle school course? | We will not be running an in-person program this summer, but are working to create new content for a virtual middle school program.  (click [here](https://beaverworks.ll.mit.edu/CMS/bw/node/351)) |
 | How can I apply/ or apply for my child? | See link above, enrollment is not yet open. |
-| Can my child attend? | The progam at MIT is *only* for local Boston-area students, we cannot provide residential housing for this age group, and  do this as part of community outreach. |
 | How can I do this in my school? | We can partner with you and your school to provide the course and curriculum content for classes, enrichment or clubs. Please email us (bwsi-admin@mit.edu). | 
 
 <br/>
