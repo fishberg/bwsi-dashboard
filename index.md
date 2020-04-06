@@ -10,8 +10,14 @@ layout: default
 Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu
 
 # COVID-19, BWSI and MIT Policy Update [here](https://beaverworks.ll.mit.edu/CMS/bw/COVID19)
-# We are evaluating which courses we can offer as a virtual course, as we will not be having an in-person program this summer.  The Enrollment application is being updated along with ALL due dates. We hope that have that available this week (4/3).  The online course will continue to be available for access throughout the summer.
-
+# We are evaluating which courses we can offer as a virtual course, as we will not be having an in-person program this summer.  The Enrollment application is being updated along with ALL due dates. We hope that have that available this week (4/6).  All online courses will continue to be available for access throughout the summer.
+|   |   |
+| ---- | ---- |
+| Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR|
+| Build-a-Cubesat | Embedded Security |
+| Remote Sensing for Disaster Response | Medlytics |
+| Serious Games Development with AI | |
+   
 | Question | Answer |
 | ---- | ---- |
 | Where can I get more information? | We try to keep our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) as up-to-date as possible. |
