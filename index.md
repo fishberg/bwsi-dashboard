@@ -16,10 +16,10 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR|
 | Build-a-Cubesat | Embedded Security |
 | Remote Sensing for Disaster Response | Medlytics |
-| Serious Games Development with AI | |
+| Serious Games Development with AI |
    
 | Question | Answer |
-| ---- | ---- |
+| :-- | :-- |
 | Where can I get more information? | We try to keep our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) as up-to-date as possible. |
 | Do you offer programs for middle school? | We piloted our first course last year with the Mini-RACECAR course and are working to create a virtual middle school course. Here is info on our [Middle school program](https://beaverworks.ll.mit.edu/CMS/bw/node/351) |
 | What other STEM programs are available? | MIT has many programs [here](https://outreach.mit.edu) and Lincoln Laboratory has more listed [here](http://www.ll.mit.edu/outreach).  All are adapting to policy changes based on COVID-19|
