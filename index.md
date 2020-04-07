@@ -48,6 +48,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 
 | Question | Answer |
 | ---- | ---- |
+| How do I apply? | See https://beaverworks.ll.mit.edu/CMS/bw/bwsiapply for information |
 | Have I been nominated for online courses? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
 |Do I need teacher a recommendation? | Yes, a nomination for the online course and a recommendation for the enrollment application.  You will need a teacher (or mentor) to nominate you to participate in the online course, and you will need a teacher (or mentor) recommendation for the enrollment application.  The teacher recommendation is submitted via an online form that is provided with the enrollment applications in March. |
 | I did not receive BWSIX (or online course) registration email- why not? | Emails are sent to the addresses provided by your teacher, very often our emails are blocked by school network firewalls|
@@ -96,13 +97,13 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | Are there certificates available after completing the online course? | Not yet, but will be by end of March. Certificates will be available at the end of the course and automatically put in the score of the student when selected. |
 | When is the Cyber Security/Reverse Engineering Software course going to be available? | We have been delayed in releasing the course. The Python Core and GitHub will be required elements when it is available and you can start on those. We will take the delayed start into consideration in determining 'signifcant progress' on this course during enrollment decisions. |
 
-# Nomination process
+# Nomination process for Online (prerequisites)
 
 | Question | Answer |
 | ---- | ---- |
 | I'm a teacher/parent/mentor/coach - how do I nominate a student? | Please use this [link](https://mit-bwsi.formstack.com/forms/bwsi_nomination_onlinecourse_2020) to nominate, up to 5 students per form and you can submit additional times as well|
 | Have I been nominated? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
-| I don't have the student password, they are asking me for to register for BWSIX- where is it? | The student password was sent to nominators in the teacher information package email from Lisa Kelley, if you need it again, please contact bwsi-admin@mit.edu for it.|
+| I don't have the student password, they are asking me for to register for BWSIX- where is it? | The student password was sent to nominators in the teacher information package email from Lisa Kelley, if you need it again, please contact bwsi-admin@mit.edu|
 
 
 # Middle School Information 
@@ -110,7 +111,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | Question | Answer |
 | ---- | ---- |
 |When will you offer a middle school course? | We will not be running an in-person program this summer, but are working to create new content for a virtual middle school program.  (click [here](https://beaverworks.ll.mit.edu/CMS/bw/node/351)) |
-| How can I apply/ or apply for my child? | See link above, enrollment is not yet open. |
+| How can I apply/ or apply for my child? | See link above |
 | How can I do this in my school? | We can partner with you and your school to provide the course and curriculum content for classes, enrichment or clubs. Please email us (bwsi-admin@mit.edu). | 
 
 <br/>
