@@ -12,7 +12,8 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 # COVID-19, BWSI and MIT Policy Update [here](https://beaverworks.ll.mit.edu/CMS/bw/COVID19)
 # We have just released the enrollment application for the 7 courses that we will be offering through synchronous lectures and team based labs that will be run as virtual meetings and presentations from July 6-July 31.  The deadline for enrollment applications is April 30, and notifications will be sent on May 15.
 
-|   Virtual Courses  | 2020  |
+Virtual Courses for 2020
+|  |  |
 | :-: | :-: |
 | Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR|
 | Build-a-Cubesat | Embedded Security |
