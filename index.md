@@ -10,7 +10,7 @@ layout: default
 Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu
 
 # COVID-19, BWSI and MIT Policy Update [here](https://beaverworks.ll.mit.edu/CMS/bw/COVID19)
-# We are evaluating which courses we can offer as a virtual course, as we will not be having an in-person program this summer.  The Enrollment application is being updated along with ALL due dates. We hope that have that available this week (4/6).  All online courses will continue to be available for access throughout the summer.
+# We have just released the enrollment application for the 7 courses that we will be offering through synchronous lectures and team based labs that will be run as virtual meetings and presenations from July 6-July 31.  The deadline for applications is April 30, and students will be notified on May 15.
 
 |   Virtual Courses  | 2020  |
 | :-: | :-: |
@@ -21,6 +21,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
    
 | Question | Answer |
 | :-- | :-- |
+| Which programs are available? | Information pamphlet is [here](https://drive.google.com/open?id=17h_vg496Uu_kX4KFTVFfNz1-4IuGkene) |
 | Where can I get more information? | We try to keep our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) as up-to-date as possible. |
 | Do you offer programs for middle school? | We piloted our first course last year with the Mini-RACECAR course and are working to create a virtual middle school course. Here is info on our [Middle school program](https://beaverworks.ll.mit.edu/CMS/bw/node/351) |
 | What other STEM programs are available? | MIT has many programs [here](https://outreach.mit.edu), Lincoln Laboratory has more listed [here](http://www.ll.mit.edu/outreach ) and pleased to add Media Lab's https://aieducation.mit.edu/index.html#curriculum.  All are adapting to policy changes based on COVID-19|
@@ -32,7 +33,6 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 
 | Question | Answer |
 | ---- | ---- |
-| WHY is the enrollment link not available/open?? | See our [COVID-19](https://beaverworks.ll.mit.edu/CMS/bw/COVID19) announcement, We are changing the enrollment application AND deadlines to match the expected virtual courses that will be provided this summer. |
 | Where is the link for the enrollment application? | Student enrolled in the online course have received this [link](https://mit-bwsi.formstack.com/forms/bwsi_student_summer_application_2020), with password. |
 | Why didn't I receive the enrollment application? | The summer enrollment application is a link and was sent out to all students registered this year in the BWSIX online course.  If you did not receive it, check your spam/junk email and then contact bwsi-admin@mit.edu to request it again.|
 | You ask for 3 choices (1st, 2nd, 3rd) for courses- do I have to do all three? | Enrollment is competitive and you may not get your first choice. Upon acceptance into the program, you will be placed into one (1) course and will need to complete the online portion for that course. |
