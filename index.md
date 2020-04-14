@@ -14,6 +14,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 
 # Virtual Courses for 2020
 # If your course was canceled, you need to show progress in one of the 7 virtual courses below to qualify for enrollment this summer.
+
 |  |  |
 | :-: | :-: |
 | Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR|
