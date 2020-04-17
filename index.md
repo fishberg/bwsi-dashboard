@@ -26,7 +26,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
    
 | Question | Answer |
 | :-- | :-- |
-| Which programs are available? | Information pamphlet is [here](https://drive.google.com/open?id=17h_vg496Uu_kX4KFTVFfNz1-4IuGkene) |
+| Which programs are available? | Information pamphlet is [here](https://drive.google.com/open?id=18j5YyKDruqqxDdYMxr5Y-31c8zp1kquS) |
 | Where can I get more information? | We try to keep our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) as up-to-date as possible. |
 | Do you offer programs for middle school? | We piloted our first course last year with the Mini-RACECAR course, we will not be able to run a middle school program this year. Here is info on our [Middle school program](https://beaverworks.ll.mit.edu/CMS/bw/node/351) |
 | What other STEM programs are available? | MIT has many programs [here](https://outreach.mit.edu), Lincoln Laboratory has more listed [here](http://www.ll.mit.edu/outreach ) and pleased to link to Media Lab's [AI Education site](https://aieducation.mit.edu/index.html#curriculum).  All are adapting to policy changes based on COVID-19|
