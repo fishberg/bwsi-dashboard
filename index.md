@@ -57,7 +57,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 
 | Question | Answer |
 | ---- | ---- |
-| How do I apply? | See https://beaverworks.ll.mit.edu/CMS/bw/bwsiapply for information |
+| How do I apply? | See our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsiapply) for information |
 | Have I been nominated for online courses? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
 |Do I need teacher a recommendation? | Yes, a nomination for the online course and a recommendation for the enrollment application.  You will need a teacher (or mentor) to nominate you to participate in the online course, and you will need a teacher (or mentor) recommendation for the enrollment application.  The teacher recommendation is submitted via an online form that is provided with the enrollment applications in March. |
 | I did not receive BWSIX (or online course) registration email- why not? | Emails are sent to the addresses provided by your teacher, very often our emails are blocked by school network firewalls|
