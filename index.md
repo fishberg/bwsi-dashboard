@@ -9,13 +9,15 @@ layout: default
 
 Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu
 
-# COVID-19, BWSI and MIT Policy Update [here](https://beaverworks.ll.mit.edu/CMS/bw/COVID19)
+COVID-19, BWSI and MIT Policy Update [here](https://beaverworks.ll.mit.edu/CMS/bw/COVID19)
 # We have just released the enrollment application for the 7 courses that we will be offering through synchronous lectures and team based labs that will be run as virtual meetings and presentations from July 6-July 31.  The deadline for enrollment applications is April 30, and notifications will be sent on May 15.
 
 # Virtual Courses for 2020
 # If your course was canceled, you need to show progress in one of the 7 virtual courses below to qualify for enrollment this summer. We will take into consideration the work you have done on another course.  The application allows you to put this information in.
 
-# If your teacher submitted a recommendation already,using the link provided in either application, your teacher does NOT have to submit a second recommendation.
+# Enrollment application: Some students are receiving an error message "The Beaver Works Summer Institute is only open to US Citizens...", we are looking into this message but it does not appear to prevent students from submitting, and we will reach out to any students that have incomplete enrollment applications.
+
+If your teacher submitted a recommendation already,using the link provided in either application, your teacher does NOT have to submit a second recommendation.
 
 |  |  |
 | :-: | :-: |
@@ -35,13 +37,14 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 | I'm a senior, can I apply? | Current seniors are not eligible to apply (you should be getting ready for college and mentoring younger students) |
 | What does the program cost? Is there a fee for the program? | The program is *free* for students, we are making every effort to provide materials to support the virtual BWSI but students may have to purchase some supplies to participate.|
 
-# Enrollment Questions for Summer program at MIT
+# Enrollment Questions for the MIT BWSI Summer program
 
 | Question | Answer |
 | ---- | ---- |
 | Where is the link for the enrollment application? | Student participating in the online course have received this [link](https://mit-bwsi.formstack.com/forms/bwsi_student_summer_application_2020), with password. |
 | Why didn't I receive the enrollment application? | The summer enrollment application is a [link](https://mit-bwsi.formstack.com/forms/bwsi_student_summer_application_2020) and was sent out to all students registered this year in the BWSIX online course.  If you did not receive it, check your spam/junk email and then contact bwsi-admin@mit.edu to request it again.|
-| *My first choice course was canceled- how much progress do I need to do in the new course?* | *Start the new course to demonstrate your interest, get as far as you can by April 30, we will take progress on your original course into consideration*. |
+| My first choice course was canceled- how much progress do I need to do in the new course? | *Start the new course to demonstrate your interest, get as far as you can by April 30, we will take progress on your original course into consideration*. |
+| I received an error saying that I cannot apply to the summer program - what can I do? | This may be an error in the form, if you are a US Citizen and received this message, continue and submit the form. |
 | What do I need for the enrollment application? What are the enrollment instructions? | Here is a [link](https://docs.google.com/document/d/1x7gaXjy1BXAoae1lZwzxpmDrNOMtGVhU45K3eatPYZY/edit?usp=sharing) that provides information on the required fields and information that you will have to provide on the enrollment application.|
 | You ask for 3 choices (1st, 2nd, 3rd) for courses- do I have to do all three? | Enrollment is competitive and you may not get your first choice. Upon acceptance into the program, you will be placed into one (1) course and will need to complete the online portion for that course. |
 | When is the teacher recommendation due? | Your teacher recommendation due date is being extended and can be via this [link](https://mit-bwsi.formstack.com/forms/bwsi_teacher_recommendation_2020).|
