@@ -42,6 +42,7 @@ If your teacher submitted a recommendation already,using the link provided in ei
 | Question | Answer |
 | ---- | ---- |
 | Where is the link for the enrollment application? | Student participating in the online course have received this [link](https://mit-bwsi.formstack.com/forms/bwsi_student_summer_application_2020), with password. |
+| What is my unique ID that I need for the enrollment application? | *Your unique ID is also your BWSIX user name.* |
 | Why didn't I receive the enrollment application? | The summer enrollment application is a [link](https://mit-bwsi.formstack.com/forms/bwsi_student_summer_application_2020) and was sent out to all students registered this year in the BWSIX online course.  If you did not receive it, check your spam/junk email and then contact bwsi-admin@mit.edu to request it again.|
 | My first choice course was canceled- how much progress do I need to do in the new course? | *Start the new course to demonstrate your interest, get as far as you can by April 30, we will take progress on your original course into consideration*. |
 | I received an error saying that I cannot apply to the summer program - what can I do? | This may be an error in the form, if you are a US Citizen and received this message, continue and submit the form. |
