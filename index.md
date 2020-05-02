@@ -114,7 +114,7 @@ We are still accepting teacher recommendations if needed to complete your enroll
 | How can I do this in my school? | We can partner with you and your school to provide the course and curriculum content for classes, enrichment or clubs. Please email us (bwsi-admin@mit.edu). | 
 
 # Last resort!
-Email [bwsi-admin](bwsi-admin@mit.edu) with your questions if you do not see the answers you need on this page.  BWX-help or BWinfo or BWwebmaster will only take longer to get an answer.
+Email [bwsi-admin](mailto:bwsi-admin@mit.edu) with your questions if you do not see the answers you need on this page.  BWX-help or BWinfo or BWwebmaster will only take longer to get an answer.
 
 <br/>
 
