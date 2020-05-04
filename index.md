@@ -10,7 +10,7 @@ layout: default
 Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu
 
 COVID-19, BWSI and MIT Policy Update [here](https://beaverworks.ll.mit.edu/CMS/bw/COVID19)
-# The deadline for summer enrollment applications has past, and notifications will be sent on May 15.  We are busy preparing for the 7 courses that we will be offering through synchronous lectures and team based labs that will be run as virtual meetings and presentations from July 6-July 31.  The courses are free and are currently being planned to run from 9am to 5pm EDT.
+# The deadline for summer enrollment applications has past, and notifications will be sent on May 15 by 9pm EDT.  We are busy preparing for the 7 courses that we will be offering through synchronous lectures and team based labs that will be run as virtual meetings and presentations from July 6-July 31.  The courses are free and are currently being planned to run from 9am to 5pm EDT.
 
 We are still accepting teacher recommendations if needed to complete your enrollment application, and can submit via this [link](https://mit-bwsi.formstack.com/forms/bwsi_teacher_recommendation_2020).|
 
