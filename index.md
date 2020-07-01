@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Welcome students applying for BWSI 2020 (our 5th year)!
+# Welcome students to BWSI 2020 (our 5th year)!
 
 ![BWSI](./assets/img/logo-full.png)
 
@@ -10,9 +10,10 @@ layout: default
 Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu
 
 COVID-19, BWSI and MIT Policy Update [here](https://beaverworks.ll.mit.edu/CMS/bw/COVID19)
-# The deadline for summer enrollment applications has past, and notifications will be sent on May 15 by 9pm EDT.  We are busy preparing for the 7 courses that we will be offering through synchronous lectures and team based labs that will be run as virtual meetings and presentations from July 6-July 31.  The courses are free and are currently being planned to run from 9am to 5pm EDT.
+# The deadline for summer enrollment applications has past.  We are busy preparing for the 7 courses that we will be offering through synchronous lectures and team based labs that will be run as virtual meetings and presentations from July 6-July 31.  The courses are free and are currently being planned to run from 10am to 6pm EDT.
 
-We are still accepting teacher recommendations if needed to complete your enrollment application, and can submit via this [link](https://mit-bwsi.formstack.com/forms/bwsi_teacher_recommendation_2020).|
+# New for 2020, we are keeping our online courses open for independent study, students can also follow along as we post seminars and lectures on our [YouTube channel](https://www.youtube.com/channel/UCZ6aVlpRXxU7uR4NBRAYvzQ?sub_confirmation=1) #
+
 
 # Virtual Courses for 2020
 
@@ -21,7 +22,7 @@ We are still accepting teacher recommendations if needed to complete your enroll
 | Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR|
 | Build-a-Cubesat | Embedded Security |
 | Remote Sensing for Disaster Response | Medlytics |
-| Serious Games Development with AI | |
+| Serious Games Development with AI | [piPACT: Independent Project](https://beaverworks.ll.mit.edu/CMS/bw/pipact)|
    
 | Question | Answer |
 | :-- | :-- |
