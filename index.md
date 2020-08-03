@@ -2,7 +2,7 @@
 layout: default
 ---
 # Congratulations to our BWSI class of 2020! What a great final event!
-# Welcome students to BWSI class of 2021!
+# Welcome students to BWSI 2021!
 
 ![BWSI](./assets/img/logo-full.png)
 
