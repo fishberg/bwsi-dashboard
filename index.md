@@ -13,7 +13,7 @@ layout: default
 ## We have not yet opened the online course registration for 2021.  At this time, we know that we will be providing a program in 2021, we do not know if it will be in-person, virtual or both!  The online courses open by Jan 31, and we expect that the July synchronous program will start on July 5, 2021.
 
 ## The information below was for the 2020 cohort, and links may be out of date until we are ready to start the 2021 program.
-## Check our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) for information as we have it available.
+## Check our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) for updated information on the 2021 program.
 
 # Virtual Courses for 2020
 
