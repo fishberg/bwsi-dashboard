@@ -1,19 +1,18 @@
 ---
 layout: default
 ---
-# Welcome students to BWSI 2020 (our 5th year)!
-
+# Congratulations to our BWSI class of 2020! What a great final event!
+# Welcome students to BWSI class of 2021!
+The 2021 course are not open yet, but 
 ![BWSI](./assets/img/logo-full.png)
 
 # Frequently Asked Questions (FAQ) re. Beaver Works Summer Institute
 
 Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu
 
-COVID-19, BWSI and MIT Policy Update [here](https://beaverworks.ll.mit.edu/CMS/bw/COVID19)
-# The deadline for summer enrollment applications has past.  We are busy preparing for the 7 courses that we will be offering through synchronous lectures and team based labs that will be run as virtual meetings and presentations from July 6-July 31.  The courses are free and are currently being planned to run from 10am to 6pm EDT.
+# We have not yet opened the online course registration for 2021.  At this time, we do not know if we will be offering in-person, virtual or both, but we will be providing a program in 2021!  We expect that the July synchronous program will start on July 5, 2021.
 
-# New for 2020, we are keeping our online courses open for independent study, students can also follow along as we post seminars and lectures on our [YouTube channel](https://www.youtube.com/channel/UCZ6aVlpRXxU7uR4NBRAYvzQ?sub_confirmation=1) #
-
+## The information below was for the 2020 cohort, and links may be out of date until we are ready to start the 2021 program.
 
 # Virtual Courses for 2020
 
