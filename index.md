@@ -136,151 +136,23 @@ Our sponsors understand that the best and brightest are coming here for courses 
 
 We have world class researchers and educators present lunchtime lectures to attending students.  You can watch selected seminars online, [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/)!
 
-### 2020 Schedule
+### 2020 Seminars Schedule during July: Tues, Wed, Thurs, 12:30-1:30 EDT
 
 | Name | Date | Title | Organization |
 | ---- | ---- | ----- | -----|
-
-<hr />
-<h3><strong>Seminars during July, Tues, Wed, Thurs, 12:30-1:30 EDT</strong></h3>
-
-<hr />
-<p>We have world class researchers and educators present lunchtime lectures to attending students. You will also be able to watch a livestream of these - check out our <a href="https://www.youtube.com/channel/UCZ6aVlpRXxU7uR4NBRAYvzQ">YouTube Channel </a>!</p>
-
-<h3>2020 Schedule (so far!)</h3>
-
-<table align="center" cellspacing="1" style="height:406px; width:903px">
-	<thead>
-		<tr>
-			<th>Name</th>
-			<th style="text-align:center; vertical-align:middle">Date</th>
-			<th>Title</th>
-			<th>Organization</th>
-			<th>Rec</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Prof Sertac Karaman, Dr. Bob Shin, BWSI staff</td>
-			<td style="text-align:center; vertical-align:middle">7/6/20</td>
-			<td>Day 1 Kickoff!&nbsp; Time: 10am EDT</td>
-			<td>&nbsp;MIT, MIT/LL</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td><a href="https://drive.google.com/file/d/1jQROBybc6Id_PW8wsGHxjUHb5VvVxzQK/view?usp=sharing">Prof. Leslie Kaelbling</a></td>
-			<td style="text-align:center; vertical-align:middle">7/7/20</td>
-			<td>Doing for our Robots What Nature did for us</td>
-			<td>&nbsp;MIT CSAIL</td>
-			<td><a href="https://youtu.be/XqHuHqJb-vg">Link</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://drive.google.com/file/d/1XfI40pS3gsi22ouU3C67rDvU5DREsop2/view?usp=sharing">Prof. Daniela Rus </a>(Note 12:00 EDT start time)</td>
-			<td style="text-align:center; vertical-align:middle">7/8/20</td>
-			<td>Unleashing Your Inner Maker</td>
-			<td>&nbsp;MIT CSAIL</td>
-			<td>Live only</td>
-		</tr>
-		<tr>
-			<td>
-			<p><a href="https://drive.google.com/file/d/1v7_KoB-JVM4-sxcwfg6nHSCb-_BHg09P/view?usp=sharing">Jerry Wohletz</a>&nbsp;</p>
-
-			<p><a href="https://drive.google.com/file/d/1RBY0JyoJU91jWuFe09bXd3w8EVcoDaQW/view?usp=sharing">Dr. Francesca Scire-Scappuzzo</a></p>
-			</td>
-			<td style="text-align:center; vertical-align:middle">7/9/20</td>
-			<td>
-			<p>Autonomous Intelligence: The AI You Don’t Know</p>
-
-			<p>One Story- 3 messages: Determination, Flexibilty and Purpose</p>
-			</td>
-			<td>
-			<p>BAE Systems</p>
-
-			<p>FAST Labs</p>
-			</td>
-			<td><a href="https://youtu.be/2MHs1nFKhwM">Link</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://drive.google.com/file/d/1Lvjdjrap-eEmSeu3e4bbEA2u__veJZ9Y/view?usp=sharing">Prof. Amos Winter</a></td>
-			<td style="text-align:center; vertical-align:middle">7/14/20</td>
-			<td>Leveraging Technical and Socioeconomic Insights to Create Products for Developing and Global Markets</td>
-			<td>MIT MechE</td>
-			<td><a href="https://youtu.be/8eicbVlASmM">Link</a></td>
-		</tr>
-		<tr>
-			<td><a href="https://mitadmissions.org/">Chris Peterson</a></td>
-			<td style="text-align:center; vertical-align:middle">7/15/19</td>
-			<td>How to apply to MIT (and other colleges) as a Maker</td>
-			<td>MIT Admissions Office</td>
-			<td>Live only</td>
-		</tr>
-		<tr>
-			<td><a href="https://drive.google.com/file/d/11Np-VNFGZriHVeaBUa6HT-xYhliI8Kzc/view?usp=sharing">Dr. Eric Evans</a></td>
-			<td style="text-align:center; vertical-align:middle">7/16/19</td>
-			<td>MIT Lincoln Laboratory Overview</td>
-			<td>MIT Lincoln Laboratory</td>
-			<td>Live only</td>
-		</tr>
-		<tr>
-			<td>
-			<p><a href="https://drive.google.com/file/d/1p67DT8D4rqRGpA5-Mo62H1IWjeNnBANw/view?usp=sharing">Jennifer Benson and </a></p>
-
-			<p><a href="https://drive.google.com/file/d/1Lvjdjrap-eEmSeu3e4bbEA2u__veJZ9Y/view?usp=sharing">Major General Michael Schmidt</a></p>
-			</td>
-			<td style="text-align:center; vertical-align:middle">7/21/20</td>
-			<td><a href="https://youtu.be/C8cTt2Ki4GM">LASER Communications &amp; a Personal Perspective from a Major General</a></td>
-			<td>Raytheon Technologies</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td><a href="https://drive.google.com/file/d/12vOQN-E30aqwQoAdZ-jE1wd6o85f9dB8/view?usp=sharing">Dr. Simon Verghese</a></td>
-			<td style="text-align:center; vertical-align:middle">7/22/20</td>
-			<td>Self-Driving Cars and Lidar</td>
-			<td>Waymo</td>
-			<td>live only</td>
-		</tr>
-		<tr>
-			<td><a href="https://www.csail.mit.edu/person/anant-agarwal">Prof. Anant Agarwal</a></td>
-			<td style="text-align:center; vertical-align:middle">7/23/20</td>
-			<td><a href="https://youtu.be/C7bgu8Htv-o">A New Normal for Education</a></td>
-			<td>MIT Open Learning</td>
-			<td>
-			<p><a href="https://youtu.be/C7bgu8Htv-o">Link</a></p>
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://drive.google.com/file/d/18ER7jzHuen6OIY2mFacBigHzOXVFWvJK/view?usp=sharing">Dr. Natalia Guerrero</a></td>
-			<td style="text-align:center; vertical-align:middle">7/28/20</td>
-			<td><a href="https://youtu.be/JcHT2ZNo9HY">Worlds Beyond Our Own: New Exoplanet Discoveries by NASA’s TESS</a></td>
-			<td>MIT Kavli Institute</td>
-			<td>
-			<p><a href="https://youtu.be/JcHT2ZNo9HY">Link</a></p>
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://drive.google.com/file/d/1STnuDBOl9ZkXblcU7q9G5PoLs-Hvt8Ml/view?usp=sharing">Prof. Julie Shah</a></td>
-			<td style="text-align:center; vertical-align:middle">7/29/20</td>
-			<td>&nbsp;Enhancing Human Capability with Intelligent Machine Teammates</td>
-			<td>MIT AeroAstro</td>
-			<td>Live Only</td>
-		</tr>
-		<tr>
-			<td>BWSI Staff &nbsp;</td>
-			<td style="text-align:center; vertical-align:middle">7/30/20</td>
-			<td>Short discussion on Final Event</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td style="text-align:center; vertical-align:middle">&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-	</tbody>
-</table>
-
+| Prof. Leslie Kaelbling | 7/6/20 | [Doing for our Robots What Nature did for us](https://youtu.be/XqHuHqJb-vg") | MIT CSAIL |
+| Prof. Daniela Rus | 7/7/20 | Unleashing Your Inner Maker | MIT CSAIL |
+| Dr. Jerry Wohletz | 7/8/20 | [Autonomous Intelligence: The AI You Don’t Know](https://youtu.be/2MHs1nFKhwM) | BAE |
+| Dr. Francesca Scire-Scapuzzo | 7/8/20 | [One Story- 3 messages: Determination, Flexibilty and Purpose](https://youtu.be/2MHs1nFKhwM) | BAE |
+| Prof Amos Winter | 7/14/20 | [Leveraging Technical and Socioeconomic Insights to Create Products for Developing and Global Markets](https://youtu.be/8eicbVlASmM) | MIT MechE |
+| [Chris Peterson](https://mitadmissions.org/) | 7/15/20 | How to apply to MIT (and other colleges) as a Maker | MIT Admissions Office |
+| Dr. Eric Evans | 7/16/20 | MIT Lincoln Laboratory Overview | MIT Lincoln Laboratory |
+| Jennifer Benson | 7/21/20 | [LASER Communications](https://youtu.be/C8cTt2Ki4GM) | Raytheon Intelligence and Space|
+| MG Michael Schmidt | 7/21/20 | [A Personal Perspective from a Major General](https://youtu.be/C8cTt2Ki4GM) | US Air Force |
+| Dr. Simon Verghese | 7/22/20 | Self-Driving Cars and Lidar | Waymo |
+| Prof Anant Agarwal | 7/23/20 | [A New Normal for Education](https://youtu.be/C7bgu8Htv-o) | MIT Open Learning |
+| Prof Natalia Guerrero | 7/28/20 | [Worlds Beyond Our Own: New Exoplanet Discoveries by NASA’s TESS](https://youtu.be/JcHT2ZNo9HY) | MIT Kavli Institute |
+| Prof Julie Shah | 7/29/20 | Enhancing Human Capability with Intelligent Machine Teammates | MIT AeroAstro |
 
 ### 2019 Schedule
 
