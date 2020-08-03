@@ -13,9 +13,9 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 # We have not yet opened the online course registration for 2021.  At this time, we do not know if we will be offering in-person, virtual or both, but we will be providing a program in 2021!  We expect that the July synchronous program will start on July 5, 2021.
 
 ## The information below was for the 2020 cohort, and links may be out of date until we are ready to start the 2021 program.
+## Check our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) for information as we have it available.
 
 # Virtual Courses for 2020
-
 |  |  |
 | :-: | :-: |
 | Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR|
