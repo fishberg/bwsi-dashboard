@@ -3,7 +3,7 @@ layout: default
 ---
 # Congratulations to our BWSI class of 2020! What a great final event!
 # Welcome students to BWSI class of 2021!
-The 2021 course are not open yet, but 
+
 ![BWSI](./assets/img/logo-full.png)
 
 # Frequently Asked Questions (FAQ) re. Beaver Works Summer Institute
