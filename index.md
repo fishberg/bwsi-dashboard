@@ -16,6 +16,7 @@ Note: BWSI is managed with just a few people, *PLEASE* make every effort to read
 ## Check our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) for information as we have it available.
 
 # Virtual Courses for 2020
+
 |  |  |
 | :-: | :-: |
 | Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR|
