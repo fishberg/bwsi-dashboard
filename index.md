@@ -152,7 +152,7 @@ Our sponsors understand that the best and brightest are coming here for courses 
 | Prof Natalia Guerrero | 7/28/20 | [Worlds Beyond Our Own: New Exoplanet Discoveries by NASA’s TESS](https://youtu.be/JcHT2ZNo9HY) | MIT Kavli Institute |
 | Prof Julie Shah | 7/29/20 | Enhancing Human Capability with Intelligent Machine Teammates | MIT AeroAstro |
 
-### 2019 Schedule- You can see these via webcast [here](http://web.mit.edu/webcast/beaverworks/sum2019/beaverworks-vod/sum19/index.html)
+### 2019 Schedule- You can view recorded seminars [here](http://web.mit.edu/webcast/beaverworks/sum2019/beaverworks-vod/sum19/index.html)
 
 | Name | Date | Title | Organization |
 | ---- | ---- | ----- | -----|
