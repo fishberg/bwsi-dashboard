@@ -132,9 +132,7 @@ Our sponsors understand that the best and brightest are coming here for courses 
 
 <br/>
 
-# Daily Seminars during July (from 2019)
-
-We have world class researchers and educators present lunchtime lectures to attending students.  You can watch selected seminars online, [Click Here](http://web.mit.edu/webcast/beaverworks/sum2019/)!
+# Daily Seminars during July
 
 ### 2020 Seminars Schedule during July: Tues, Wed, Thurs, 12:30-1:30 EDT
 
