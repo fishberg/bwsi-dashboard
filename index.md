@@ -120,17 +120,11 @@ Email [bwsi-admin](mailto:bwsi-admin@mit.edu) with your questions if you do not 
 <br/>
 
 
-# Internship Opportunities (to be updated as we have more information)
+# Internship Opportunities (and other opportunities after BWSI)
 
-Our sponsors understand that the best and brightest are coming here for courses and offer internships to selected students attending BWSI for the following summer.
+Please see this [page](https://beaverworks.ll.mit.edu/CMS/bw/After_BWSI) for more info.
 
-| Name | Application Link | Additional Info | Due |
-| ---- | ---------------- | --------------- | --- |
-| BAE  | TBD | N/A | TBD |
-| Raytheon | TBD |  N/A | TBD |
-| Lockheed Martin | TBD | N/A | TBD |
-
-<br/>
+Our sponsors understand that the best and brightest are coming here for courses and offer internships to selected students attending BWSI for the following summer, BAE Systems, Raytheon Intelligence and Space, and MITRE are planning on offering internships to BWSI alum.
 
 # Daily Seminars during July
 
