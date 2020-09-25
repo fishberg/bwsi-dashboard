@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Congratulations to our BWSI class of 2020! What a great final event!
 # Welcome students to BWSI 2021!
 
 ![BWSI](./assets/img/logo-full.png)
@@ -15,14 +14,15 @@ layout: default
 ## The information below was for the 2020 cohort, and links may be out of date until we are ready to start the 2021 program.
 ## Check our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) for updated information on the 2021 program.
 
-# Virtual Courses for 2020
+# Courses for 2021 - we are planning on Virtual at this point
 
 |  |  |
 | :-: | :-: |
 | Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR|
 | Build-a-Cubesat | Embedded Security |
 | Remote Sensing for Disaster Response | Medlytics |
-| Serious Games Development with AI | [piPACT: Independent Project](https://beaverworks.ll.mit.edu/CMS/bw/pipact)|
+| Serious Games Development with AI | Quantum Computing(New)|
+| Autonomous Underwater Vehicles (new) | Cyber Security and Reverse SW engineering (new)|
    
 | Question | Answer |
 | :-- | :-- |
