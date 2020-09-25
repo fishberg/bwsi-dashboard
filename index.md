@@ -62,7 +62,7 @@ layout: default
 | Can I apply if I go to school internationally? | We can accept US citizens going to school in non-US schools, the process is the same, contact us if your instructors cannot access the required forms. |
 | Can I apply if I am homeschooled/go to alternative school? | *Yes*, the process is the same, (nomination for online, registration for online, enrollment for onsite) contact us if your instructors/mentors cannot access the required forms. |
 
-# Passwords
+# Passwords- for registered students
 
 | Question | Answer |
 | ---- | ---- |
@@ -74,7 +74,7 @@ layout: default
 |Where's my access code to register for course on Piazza? | Access codes are located in introductory module for your course or in course updates (check all updates for Jan 14) |
 
 
-# Online Course 
+# Online Course - for registered students
 
 | Question | Answer |
 | ---- | ---- |
@@ -94,8 +94,7 @@ layout: default
 | I see the 2019 courses, can I work on them? | No, the 2019 courses are closed, and do not count towards the 2020 application |
 | After I register on BWSIX, can I change the email for the account? | No, BWSIX.mit.edu is administered by a different organization and we cannot change email/account settings. |
 | What email is used for correspondence for BWSI? | We use the email entered by you, the student, on the student online course registration form as the primary method to send updates and information |
-| Are there certificates available after completing the online course? | Not yet, but will be by end of March. Certificates will be available at the end of the course and automatically put in the score of the student when selected. |
-| When is the Cyber Security/Reverse Engineering Software course going to be available? | We have been delayed in releasing the course. The Python Core and GitHub will be required elements when it is available and you can start on those. We will take the delayed start into consideration in determining 'signifcant progress' on this course during enrollment decisions. |
+| Are there certificates available after completing the online course? | Yes, Certificates will be available at the end of the course and automatically put in the score of the student when selected. |
 
 # Nomination process for Online (prerequisites)
 
@@ -173,6 +172,7 @@ Our sponsors understand that the best and brightest are coming here for courses 
 
 | Name | Link |
 | ---- | ---- |
+| BWSI YouTube Channel | [Click Here](https://www.youtube.com/channel/UCZ6aVlpRXxU7uR4NBRAYvzQ?sub_confirmation=1)
 | BWSI 2020 Brochure | [Click Here](https://drive.google.com/file/d/10uhjk0j0VFmZnKCTatu0_3aXRfbTtuOy/view?usp=sharing)
 | BWSI'19 Program Brochure | [Click Here](https://drive.google.com/file/d/1f6MtWChhFetyJVoSkKW4KYEGOP3-rO66/view?usp=sharing) |
 | BWSI'19 Final Event Brochure | [Click Here](https://drive.google.com/open?id=1ha7z0dfWV3WyacrAFyxJvp6AON76jvm7) |
