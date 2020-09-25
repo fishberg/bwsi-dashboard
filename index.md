@@ -12,7 +12,7 @@ layout: default
 ## We have not yet opened the online course registration for 2021.  At this time, we know that we will be providing a program in 2021, we do not know if it will be in-person, virtual or both!  The online courses open by Jan 31, and we expect that the July synchronous program will start on July 5, 2021.
 
 ## The information below was for the 2020 cohort, and links may be out of date until we are ready to start the 2021 program.
-## Check our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) for updated information on the 2021 program.
+## Check our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) for updated information and how to apply to the 2021 program.
 
 # Courses for 2021 - we are planning on Virtual at this point
 
@@ -26,10 +26,10 @@ layout: default
    
 | Question | Answer |
 | :-- | :-- |
-| Which programs are available? | Information pamphlet is [here](https://drive.google.com/open?id=18j5YyKDruqqxDdYMxr5Y-31c8zp1kquS) |
+| Which programs are available? | 2020 Information pamphlet is [here](https://drive.google.com/open?id=18j5YyKDruqqxDdYMxr5Y-31c8zp1kquS) |
 | Where can I get more information? | We try to keep our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) as up-to-date as possible. |
-| What is the daily schedule? | We will be hosting classes *from 9am - 5pm EDT, Monday-Friday, July 6-31*.  There will be a mix of lectures, labs, and office hours. As we accept students from across the US, some classes may be adjusting hours for different time zones based on their students.|
-| Do you offer programs for middle school? | We piloted our first course last year with the Mini-RACECAR course, we will not be able to run a middle school program this year. Here is info on our [Middle school program](https://beaverworks.ll.mit.edu/CMS/bw/node/351) |
+| What is the daily schedule? | We will be hosting classes *from 9am - 5pm EDT, Monday-Friday, July 5-Aug 1*.  There will be a mix of lectures, labs, and office hours. As we accept students from across the US, some classes may be adjusting hours for different time zones based on their students.|
+| Do you offer programs for middle school? | We piloted our first course in 2019 with the Mini-RACECAR course, we may not be able to host a middle school program this year. Here is info on our [Middle school program](https://beaverworks.ll.mit.edu/CMS/bw/node/351) |
 | What other STEM programs are available? | MIT has many programs [here](https://outreach.mit.edu), Lincoln Laboratory has more listed [here](http://www.ll.mit.edu/outreach ) and pleased to link to Media Lab's [AI Education site](https://aieducation.mit.edu/index.html#curriculum).  All are adapting to policy changes based on COVID-19|
 | I'm a freshman/sophomore, can I apply? | We encourage interested students to be nominated to access the online course, but as we can only accept a limited number of students, accepted students are generally finishing their junior year (i.e. rising seniors) |
 | What does the program cost? Is there a fee for the program? | The program is *free* for students, we are making every effort to provide materials to support the virtual BWSI but students may have to purchase some supplies to participate.|
@@ -39,7 +39,7 @@ layout: default
 | Question | Answer |
 | ---- | ---- |
 | My first choice course was canceled- how much progress do I need to do in the new course? | *Start the new course to demonstrate your interest, get as far as you can by April 30, we will take progress on your original course into consideration*. |
-| What do I need for the enrollment application? What are the enrollment instructions? | Here is a [link](https://docs.google.com/document/d/1x7gaXjy1BXAoae1lZwzxpmDrNOMtGVhU45K3eatPYZY/edit?usp=sharing) that provides information on the required fields and information that you will have to provide on the enrollment application.|
+| What do I need for the enrollment application? What are the enrollment instructions? | Here is the 2020 [link](https://docs.google.com/document/d/1x7gaXjy1BXAoae1lZwzxpmDrNOMtGVhU45K3eatPYZY/edit?usp=sharing) that provides information on the required fields and information that you will have to provide on the enrollment application.|
 | You ask for 3 choices (1st, 2nd, 3rd) for courses- do I have to do all three? | Enrollment is competitive and you may not get your first choice. Upon acceptance into the program, you will be placed into one (1) course and will need to complete the online portion for that course. |
 | When is the teacher recommendation due? | Your teacher recommendation due date is being extended and can be via this [link](https://mit-bwsi.formstack.com/forms/bwsi_teacher_recommendation_2020).|
 | What if my teacher already submitted a recommendation for me? | Your teacher will *not* have to resubmit, the link is the same and we will correlate with your Unique ID number, provided with your online course access (and your Unique ID is also your BWSIX user name) |
