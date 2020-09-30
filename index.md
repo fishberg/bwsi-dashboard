@@ -11,7 +11,7 @@ layout: default
 
 ## We have not yet opened the online course registration for 2021.  At this time, we know that we will be providing a program in 2021, we do not know if it will be in-person, virtual or both!  The online courses open by Feb 1, and we expect that the July synchronous program will start on July 5, 2021.
 
-## We are updating these for our 2021 class somelinks may be out of date until we are ready to start the 2021 program. Please be patient.
+## We are updating these for our 2021 class some links may be out of date until we are ready to start the 2021 program. Please be patient.
 ## Check our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) for updated information and how to apply to the 2021 program.
 
 # Courses for 2021 (tentative list)
@@ -21,8 +21,8 @@ layout: default
 | Build-a-Cubesat | Embedded Security |
 | Remote Sensing for Disaster Response | Medlytics |
 | Designing for Assistive Technology | Serious Games Development with AI |
-| Autonomous Underwater Vehicles (new) | Cyber Security and Reverse SW engineering (new)|
-| Quantum Computing(New)| |
+| Autonomous Underwater Vehicles (new) | Cyber Security and Reverse SW engineering (new) |
+| Quantum Computing(New) |   |
    
 | Question | Answer |
 | :-- | :-- |
