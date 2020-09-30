@@ -15,6 +15,7 @@ layout: default
 ## Check our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) for updated information and how to apply to the 2021 program.
 
 # Courses for 2021 (tentative list)
+
 |  |  |
 | :-: | :-: |
 | Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR |
