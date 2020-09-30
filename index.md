@@ -9,20 +9,20 @@ layout: default
 
 ### Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu
 
-## We have not yet opened the online course registration for 2021.  At this time, we know that we will be providing a program in 2021, we do not know if it will be in-person, virtual or both!  The online courses open by Jan 31, and we expect that the July synchronous program will start on July 5, 2021.
+## We have not yet opened the online course registration for 2021.  At this time, we know that we will be providing a program in 2021, we do not know if it will be in-person, virtual or both!  The online courses open by Feb 1, and we expect that the July synchronous program will start on July 5, 2021.
 
 ## The information below was for the 2020 cohort, and links may be out of date until we are ready to start the 2021 program.
 ## Check our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi) for updated information and how to apply to the 2021 program.
 
-# Courses for 2021 - we are planning on Virtual at this point
-
+# Courses for 2021 (tentative list)
 |  |  |
 | :-: | :-: |
 | Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR|
 | Build-a-Cubesat | Embedded Security |
 | Remote Sensing for Disaster Response | Medlytics |
-| Serious Games Development with AI | Quantum Computing(New)|
+| Designing for Assistive Technology | Serious Games Development with AI |
 | Autonomous Underwater Vehicles (new) | Cyber Security and Reverse SW engineering (new)|
+| Quantum Computing(New)|
    
 | Question | Answer |
 | :-- | :-- |
@@ -38,19 +38,18 @@ layout: default
 
 | Question | Answer |
 | ---- | ---- |
-| My first choice course was canceled- how much progress do I need to do in the new course? | *Start the new course to demonstrate your interest, get as far as you can by April 30, we will take progress on your original course into consideration*. |
+| My first choice course was canceled- how much progress do I need to do in the new course? | *Start the new course to demonstrate your interest, get as far as you can by Enrollment due date, we will take progress on your original course into consideration*. |
 | What do I need for the enrollment application? What are the enrollment instructions? | Here is the 2020 [link](https://docs.google.com/document/d/1x7gaXjy1BXAoae1lZwzxpmDrNOMtGVhU45K3eatPYZY/edit?usp=sharing) that provides information on the required fields and information that you will have to provide on the enrollment application.|
 | You ask for 3 choices (1st, 2nd, 3rd) for courses- do I have to do all three? | Enrollment is competitive and you may not get your first choice. Upon acceptance into the program, you will be placed into one (1) course and will need to complete the online portion for that course. |
-| When is the teacher recommendation due? | Your teacher recommendation due date is being extended and can be via this [link](https://mit-bwsi.formstack.com/forms/bwsi_teacher_recommendation_2020).|
-| What if my teacher already submitted a recommendation for me? | Your teacher will *not* have to resubmit, the link is the same and we will correlate with your Unique ID number, provided with your online course access (and your Unique ID is also your BWSIX user name) |
+| When is the teacher recommendation due? | Your teacher recommendation due date will be the same as the application due date |
 
 # Application process for Online course- Summer enrollment is closed but the online course is still available
 
 | Question | Answer |
 | ---- | ---- |
 | How do I apply? | See our [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsiapply) for information |
-| Have I been nominated for online courses? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
-|Do I need teacher a recommendation? | Yes, a nomination for the online course and a recommendation for the enrollment application.  You will need a teacher (or mentor) to nominate you to participate in the online course, and you will need a teacher (or mentor) recommendation for the enrollment application. |
+| Have I been nominated for online courses? | After nomination, students are sent an email that contains this *to be updated* |
+|Do I need teacher a recommendation? | Yes, a nomination for the online course and a recommendation for the enrollment application.  You will need a teacher (or mentor) to nominate you to register for the online course, and you will need a teacher (or mentor) recommendation for the enrollment application. |
 | I did not receive BWSIX (or online course) registration email- why not? | Emails are sent to the addresses provided by your teacher, very often our emails are blocked by school network firewalls|
 | I used my gmail/hotmail/icloud address and still did not receive BWSIX (or online course) registration email- why not? | Please check your spam or junk mailbox to make sure it wasn't filtered, See this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub) for more in-depth answers |
 | I did not receive BWSIX (or online course) registration email after I completed the online form- why not? | Did you check the email entered was correct? The automatic response is sent to the email provided on the form, please contact bwsi-admin@mit.edu to see if this needs to be corrected. |
@@ -67,7 +66,7 @@ layout: default
 | Question | Answer |
 | ---- | ---- |
 | What's my password?? | 1) The password for formstack course registration (See next question), for BWSIX.mit.edu- see 2) below, for piazza- see 3) below.|
-| 1) What's the password for the formstack online course registration [form](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020)? | Please contact your teacher or mentor that nominated you for BWSI. |
+| 1) What's the password for the formstack online course registration *to be updated*? | Please contact your teacher or mentor that nominated you for BWSI. |
 | 2) What's the password for my BWSIX account on the login [page](https://bwsix.mit.edu/login)? | At first login, simply select the "forgot password" link on this [page](https://bwsix.mit.edu/login), and you will be able set it (or reset it) at any time. |
 | 3) What's my password for Piazza? | Piazza is self-registration (select [sign-up](https://piazza.com/)) *corrected*|
 | How do I get to correct course on Piazza? | Go to [sign-up](https://piazza.com/), select green [Students get started](https://piazza.com/school-search), enter MIT, and select "Massachusetts Institute of Technology", type "bwsi" in the course field and a course selection list will appear. |
@@ -79,19 +78,19 @@ layout: default
 | Question | Answer |
 | ---- | ---- |
 | *My first choice course was canceled- how much progress do I need to do in the new course?* | *Start the new course to demonstrate your interest, get as far as you can by April 30, we will take progress on your original course into consideration*. |
-| I registered but cannot access/find the correct course? | Check you have selected the correct semester (Spring 2020) and the courses for **2020** (not 2019) |
+| I registered but cannot access/find the correct course? | Check you have selected the correct semester (Spring 2020) and the courses for **2021** (not 2020) |
 | Can I just do the online course (and not apply to the summer program) ? | Yes, the online course is open to all high school students who are interested.  The process for the online course access is the same whether you plan on applying to the summer program or not. |
 | How do I register for the online course? | Select the link provided in the course registration email (see this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub ) )|
 | How long does it take to complete? | The length of time depends on your experience and skills, as well as the course selected, but encourage applicants to start early as it may take several weekends to complete a course. |
 | I'm having trouble logging into BWSIX, what can I do? | See this [document](https://docs.google.com/document/d/e/2PACX-1vRXOCKfPCWrdGuiC1NGcGAI95p4jGRZXMWCc5DinB7fS1kQkB4DBZ2KO1c_Hnlqv8PoPyOuFzKL7-WP/pub) for more in-depth answers |
-| How do I pick a course/What courses should I do? | After logging in to BWSIX, you will see all the 2020 courses, you should select the one course that interests you most and begin it, other courses, like Python, may be required to qualify for the summer program and it will state that in the course syllabus or description.| 
+| How do I pick a course/What courses should I do? | After logging in to BWSIX, you will see all the 2021 courses, you should select the one course that interests you most and begin it, other courses, like Python, may be required to qualify for the summer program and it will state that in the course syllabus or description.| 
 | Can I take more than 1 online course? | You are eligible to work on more than 1 course (courses like RACECAR require it), voluntarily completing additional courses does not improve your chance of acceptance, but can provide interesting learning opportunities. |
 |Since the application asks for your top three choices, would you have to finish at least 50% of your top 3 courses before you apply? | No, just your prefered course.  Not all students can be accepted into their top preference and this will help make sure promising students can be in a personally interesting course. |
-| How do I register for additional courses? | Your login for [BWSIX](https://bwsix.mit.edu/dashboard) provides access to any of the 2020 courses, and you self-register by selecting the course and starting it (don't forget that each course has its own piazza forum).|
+| How do I register for additional courses? | Your login for [BWSIX](https://bwsix.mit.edu/dashboard) provides access to any of the 2021 courses, and you self-register by selecting the course and starting it (don't forget that each course has its own piazza forum).|
 | How do I ask questions about course material? | We use Piazza as a forum for online course collaboration, you can register for an account on Piazza but course codes are ONLY available through the individual BWSIX course. | 
 |How do I register for Piazza? | See Piazza under Passwords section Q & A; Check the Introductory module or Course Updates in individual course for links and access code |
 | Piazza says my access code is incorrect- what do I do? | EACH course has its own piazza forum, so there are different access codes to each piazza course forum, confirm that you have the correct access code for the appropriate piazza forum |
-| I see the 2019 courses, can I work on them? | No, the 2019 courses are closed, and do not count towards the 2020 application |
+| I see the 2020 courses, can I work on them? | No, the 2020 courses are closed, and do not count towards the 2021 application |
 | After I register on BWSIX, can I change the email for the account? | No, BWSIX.mit.edu is administered by a different organization and we cannot change email/account settings. |
 | What email is used for correspondence for BWSI? | We use the email entered by you, the student, on the student online course registration form as the primary method to send updates and information |
 | Are there certificates available after completing the online course? | Yes, Certificates will be available at the end of the course and automatically put in the score of the student when selected. |
