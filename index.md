@@ -17,7 +17,7 @@ layout: default
 # Courses for 2021 (tentative list)
 |  |  |
 | :-: | :-: |
-| Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR|
+| Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR |
 | Build-a-Cubesat | Embedded Security |
 | Remote Sensing for Disaster Response | Medlytics |
 | Designing for Assistive Technology | Serious Games Development with AI |
