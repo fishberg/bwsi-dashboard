@@ -22,7 +22,7 @@ layout: default
 | Remote Sensing for Disaster Response | Medlytics |
 | Designing for Assistive Technology | Serious Games Development with AI |
 | Autonomous Underwater Vehicles (new) | Cyber Security and Reverse SW engineering (new)|
-| Quantum Computing(New)|
+| Quantum Computing(New)| |
    
 | Question | Answer |
 | :-- | :-- |
