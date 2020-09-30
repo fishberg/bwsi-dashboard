@@ -99,8 +99,7 @@ layout: default
 
 | Question | Answer |
 | ---- | ---- |
-| I'm a teacher/parent/mentor/coach - how do I nominate a student? | Please use this [link](https://mit-bwsi.formstack.com/forms/bwsi_nomination_onlinecourse_2020) to nominate, up to 5 students per form and you can submit additional times as well|
-| Have I been nominated? | After nomination, students are sent an email that contains this [link](https://mit-bwsi.formstack.com/forms/bwsi_studentenrollment_onlinecourse_2020), if you don't have the password from your teacher, you cannot register. |
+| I'm a teacher/parent/mentor/coach - how do I nominate a student? | Please use this [link](https://mit-bwsi.formstack.com/forms/bwsi_nomination_onlinecourse_2021) to nominate, up to 5 students per form and you can submit additional times as well|
 | I don't have the student password, they are asking me for to register for BWSIX- where is it? | The student password was sent to nominators in the teacher information package email from Lisa Kelley, if you need it again, please contact bwsi-admin@mit.edu|
 
 
@@ -126,7 +125,8 @@ Our sponsors understand that the best and brightest are coming here for courses 
 
 # Daily Seminars during July
 
-### 2020 Seminars Schedule during July: Tues, Wed, Thurs, 12:30-1:30 EDT
+### 2020 Seminar Schedule during July: Tues, Wed, Thurs, 12:30-1:30 EDT
+There will be new and exciting speakers for 2021!
 
 | Name | Date | Title | Organization |
 | ---- | ---- | ----- | -----|
