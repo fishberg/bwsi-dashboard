@@ -19,10 +19,10 @@ layout: default
 |  |  |
 | :-: | :-: |
 | Autonomous Cognitive Assistant (Cog-Works) | Mini-RACECAR |
-| Build-a-Cubesat | Embedded Security |
+| Build-a-Cubesat | Embedded Security & Hardware Hacking |
 | Remote Sensing for Disaster Response | Medlytics |
 | Designing for Assistive Technology | Serious Games Development with AI |
-| Autonomous Underwater Vehicles (New) | Cyber Security and Reverse SW engineering (New) |
+| Autonomous Underwater Vehicles (New) | Cyber Security (New) |
 | Quantum Computing(New) | ?  |
    
 | Question | Answer |
