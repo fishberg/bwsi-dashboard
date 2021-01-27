@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# Welcome students to BWSI 2021!
-### This page is being replaced by this [FAQ!](https://beaverworks.ll.mit.edu/CMS/bw/FAQ)
+## Welcome students to BWSI 2021!
+# This page is being replaced by this [FAQ!](https://beaverworks.ll.mit.edu/CMS/bw/FAQ)
 
 ![BWSI](./assets/img/logo-full.png)
 
