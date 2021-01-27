@@ -2,13 +2,13 @@
 layout: default
 ---
 # Welcome students to BWSI 2021!
-# This page is being replaced by this [FAQ!](https://beaverworks.ll.mit.edu/CMS/bw/FAQ)
+### This page is being replaced by this [FAQ!](https://beaverworks.ll.mit.edu/CMS/bw/FAQ)
 
 ![BWSI](./assets/img/logo-full.png)
 
 # Frequently Asked Questions (FAQ) re. Beaver Works Summer Institute
 
-### Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu
+## Note: BWSI is managed with just a few people, *PLEASE* make every effort to read or *search for your keyword/question* on this FAQ and to find the answers prior to emailing staff bwsi-admin@mit.edu
 
 ## We have not yet opened the online course registration for 2021.  At this time, we know that we will be providing a program in 2021, we do not know if it will be in-person, virtual or both!  The online courses open by Feb 1, and we expect that the July synchronous program will start on July 5, 2021.
 
